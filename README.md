@@ -1,4 +1,6 @@
+![Website Screenshot](assets/images/website-screenshot.png)
 # HTML-CSS-Git-Challenge--Code-Refactor
+
 **Version 1.0.0**
 
 * Refactored code for the purpose of meeting accessibility standards, improving readability, and consolidating code. 
