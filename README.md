@@ -20,7 +20,7 @@
 
 ---
 
-## License & copyright
+## Contribution
 
-© David Griffin, University of Arizona Coding Bootcamp
+David Griffin
 
