@@ -1,8 +1,8 @@
 # <Your-Project-Title>
 ## Description
-- The motivation behind creating this project was refactor code to meet accessibility standards, improve code-readability, and consolidate code. 
+- The motivation behind creating this project was to refactor code to meet accessibility standards, improve code-readability, and consolidate code. 
 
-- This website was built to create an example of code that meets accessibility standards by adding alt attributes to images, using semantic html elements to improve the code-readability , and consolidating css rules to use less lines of code from using well-defined selectors. 
+- This website was built to create an example of code that meets accessibility standards by adding alt attributes to images, using semantic html elements to improve the code-readability, and consolidating css rules to use less lines of code from using well-defined selectors. 
 
 - This project solved the problem of a website with unorganized code by organizing the code by creating alt attributes to images, organizational-comments within the code, semantic html elements, and consolidated css rules. 
 
